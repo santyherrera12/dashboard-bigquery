@@ -36,7 +36,7 @@ dashboard-bigquery/
 
 ---
 
-## Queries SQL ejecutadas en BigQuery
+##  SQL ejecutadas en BigQuery
 
 ### Top 10 juegos más vendidos
 ```sql
